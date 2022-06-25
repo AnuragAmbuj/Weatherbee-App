@@ -22,6 +22,6 @@
 **Screenshots**
 
 <p float=left>
-<img src='https://user-images.githubusercontent.com/6836102/175785026-e503392b-8905-4094-aae8-599c95eaefdf.PNG' width="200" height="400">&nbsp;&nbsp;
-<img src='https://user-images.githubusercontent.com/6836102/175785030-4863ce0c-d3ee-4282-915f-c3933f05f03f.jpeg' width="200" height="400">
+<img src='https://user-images.githubusercontent.com/6836102/175785026-e503392b-8905-4094-aae8-599c95eaefdf.PNG' width="200" height="420">&nbsp;&nbsp;
+<img src='https://user-images.githubusercontent.com/6836102/175785030-4863ce0c-d3ee-4282-915f-c3933f05f03f.jpeg' width="200" height="420">
 </p>
