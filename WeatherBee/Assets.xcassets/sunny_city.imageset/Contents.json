@@ -1,6 +1,7 @@
 {
-  "colors" : [
+  "images" : [
     {
+      "filename" : "sunny_city.svg",
       "idiom" : "universal"
     }
   ],
