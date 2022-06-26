@@ -16,8 +16,8 @@
 
 - Looping Animations as app backgrounds depicting an area's current weather
 - Lesser location load times
-- Support for all orientations (only portrait and upside down)
-- Support for all devices (currenly only limited to current generation devices)
+- Support for all orientations
+- Support for all devices (currenly only limited to notch devices)
 
 **Screenshots**
 
