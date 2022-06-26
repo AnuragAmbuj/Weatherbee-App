@@ -10,7 +10,7 @@ import CoreLocation
 
 class AirQualityManager {
     func getAirQuality(latitude: CLLocationDegrees, longitude: CLLocationDegrees) async throws -> AirQuality {
-        guard let url = URL(string: "https://api.openweathermap.org/data/2.5/air_pollution?lat=\(latitude)&lon=\(longitude)&appid=7d1fb1057f8cc6e4b201334b4819fbe0") else {
+        guard let url = URL(string: "https://api.openweathermap.org/data/2.5/air_pollution?lat=\(latitude)&lon=\(longitude)&appid=<yourAppId>") else {
             fatalError("Missing URL")
         }
         let urlRequest = URLRequest(url: url)
